@@ -8,6 +8,7 @@ public class JavaarchitechLabApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaarchitechLabApplication.class, args);
+		System.out.println("HOLA MUNDO!");
 	}
 
 }

@@ -50,7 +50,7 @@
 		</repository>
 		<snapshotRepository>
 			<id>nexus</id>
-			<url>http://192.127.28.220:8081/nexus/content/repositories/snapshots</url>
+			<url>http://192.127.28.220:8081/repository/holamundo/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
